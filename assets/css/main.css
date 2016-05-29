@@ -2018,7 +2018,7 @@
 				border-radius: 0.35em;
 				border: solid 3px rgba(255, 255, 255, 0.5);
 				color: #fff;
-				content: 'View';
+				content: 'Live';
 				display: inline-block;
 				font-size: 0.8em;
 				font-weight: 400;
@@ -2515,7 +2515,7 @@
 		}
 
 			#footer .icons a {
-				color: rgba(255, 255, 255, 0.4);
+				color: rgba(255, 255, 255, 0.5);
 			}
 
 		#footer .copyright {
@@ -2901,7 +2901,7 @@
 		/* List */
 
 			ul.icons li .icon {
-				font-size: 1.25em;
+				font-size: 2.75em;
 			}
 
 		/* Header */
