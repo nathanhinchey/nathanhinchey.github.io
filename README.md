@@ -1,4 +1,4 @@
-#nathanhinchey.github.io
+# nathanhinchey.github.io
 
 Simple website about me. [Live version](www.nathanhinchey.com).
 
