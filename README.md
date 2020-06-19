@@ -1,5 +1,5 @@
 # nathanhinchey.github.io
 
-Simple website about me. [Live version](www.nathanhinchey.com).
+Simple website about me. [Live version](http://www.nathanhinchey.com).
 
-The template is from [html5up](html5up.net).
+The template is from [html5up](https://html5up.net).
